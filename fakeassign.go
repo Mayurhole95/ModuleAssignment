@@ -25,3 +25,4 @@ func Example_withTags() {
 		fmt.Println(err)
 	}
 	fmt.Printf("%+v", a)
+}
